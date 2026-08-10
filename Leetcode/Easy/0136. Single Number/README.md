@@ -57,9 +57,9 @@
 | --- | --- |
 | Status | Accepted |
 | Language | C++ |
-| Runtime | 571 ms (5.00%) |
-| Memory | 20.6 MB (84.40%) |
-| Submission ID | 2101514868 |
+| Runtime | 0 ms (100.00%) |
+| Memory | 20.7 MB (59.43%) |
+| Submission ID | 2101541360 |
 
 ---
 
